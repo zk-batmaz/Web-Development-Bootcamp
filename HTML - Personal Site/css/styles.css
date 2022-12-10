@@ -1,0 +1,56 @@
+body{
+    background-color: #E7F6F2;
+    text-align: center;
+}
+
+hr{
+    background-color: #E7F6F2;
+    border-color: #A5C9CA;
+    border-style: none;
+    border-top-style: dotted;
+    border-top-width: 5px;
+    width: 2.5%;
+}
+
+h1{
+    color: #2C3333;
+    font-family: Segoe Script;
+}
+
+h3{
+    color: #2C3333;
+    font-family: cursive;
+}
+
+p{
+    font-family: cursive;
+    color: #395B64;
+}
+
+table{
+    font-family: cursive;
+    color: #A5C9CA;
+    display: inline-block;
+    text-align: left;
+}
+tr, td{
+    text-align: center;
+}
+
+
+ul{
+    font-family: cursive;
+    color: #395B64;
+    display: inline-block;
+    text-align: left;
+}
+
+ul li{
+    text-align: center;
+}
+
+
+form{
+    font-family: cursive;
+    color: #395B64;
+}
