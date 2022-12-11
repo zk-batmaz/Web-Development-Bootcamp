@@ -17,7 +17,7 @@ a:hover{
 
 .top-container{
     background-color: #F3F1F5;
-    height: 130px;
+    height: auto;
     width: 100%;
     position: fixed;
     top: 0;
