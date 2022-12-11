@@ -1,3 +1,8 @@
+#heading{
+        color: #2C3333;
+    font-family: Segoe Script;
+}
+
 body{
     background-color: #E7F6F2;
     text-align: center;
@@ -34,7 +39,7 @@ table{
     text-align: left;
 }
 tr, td{
-    text-align: center;
+    
 }
 
 
@@ -45,12 +50,28 @@ ul{
     text-align: left;
 }
 
-ul li{
-    text-align: center;
+ol{
+    font-family: cursive;
+    color: #395B64;
+    display: inline-block;
+    text-align: left;
 }
-
 
 form{
     font-family: cursive;
     color: #395B64;
+}
+
+a{
+    text-decoration: none;
+    color: #2C3333;
+}
+
+a:hover{
+    color: #2C3333;
+}
+
+.segoeFont{
+    color: #2C3333;
+    font-family: Segoe Script;
 }
